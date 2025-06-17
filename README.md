@@ -1,6 +1,6 @@
 # Data augmentation with LLM and Essay Scoring with T5 Models
 
-This repository implements LLM based essay augmentation. This repository also implements an automatic essay scoring system using T5 transformer models, following the approach described in the Autoregressive Score Generation for Multi-trait Essay Scoring (ArTS) paper. 
+This repository implements LLM based essay augmentation. This repository also implements an automatic essay scoring system using T5 transformer models, following the approach described in the Autoregressive Score Generation for Multi-trait Essay Scoring (ArTS) paper. Data is available [here:](https://drive.google.com/file/d/1hc7d4LkTwU9ER7namzjfFS1ClXedt6Kd/view?usp=sharing) 
 
 ## Requirements
 
